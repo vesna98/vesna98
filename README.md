@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vesna</h1>
-<h3 align="center">I graduated with a bachelor's degree in in Electrical and Computer Engineering. Currently I'm pursuing a master's degree at Faculty of Technical Sciences, University of Novi Sad.</h3>
+<h3 align="center">I graduated with a bachelor's degree in [Electrical and Computer Engineering] (http://www.ftn.uns.ac.rs/n648309510/power-software-engineering). Currently I'm pursuing a master's degree at Faculty of Technical Sciences, University of Novi Sad [link] (http://www.ftn.uns.ac.rs/1720956937/computing-and-control-engineering).</h3>
 
-- 🌱 I’m currently learning **Process Modeling, ElasticSearch, Kibana, Data Science, Online Payments**
+- 🌱 I’m currently learning **Process Modeling, ElasticSearch, Kibana, Data Science, Electronic Payment Systems**
 
 - 📫 How to reach me **prica.vesna98@gmail.com**
 
