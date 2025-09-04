@@ -5,7 +5,7 @@
 
 - 🎓 [Undergraduate Academic Studies](http://www.ftn.uns.ac.rs/n648309510/power-software-engineering) and [Master Academic Studies](http://www.ftn.uns.ac.rs/1720956937/computing-and-control-engineering)
 
-- 📫 How to reach me **prica.vesna98@gmail.com**
+- 📫 How to reach me **prica.vesna@outlook.com**
 
 - 📄 [Resume](https://github.com/vesna98/vesna98/CV.pdf)
 
