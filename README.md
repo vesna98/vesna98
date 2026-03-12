@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Vesna</h3>
-<h6 align="center">I graduated with a bachelor's degree in Electrical and Computer Engineering. Currently I'm pursuing a master's degree at Faculty of Technical Sciences, University of Novi Sad.</h6>
+<h6 align="center">Currently I'm pursuing a master's degree at Faculty of Technical Sciences, University of Novi Sad.</h6>
 
 - 🌱 I’m currently learning Process Modeling, ElasticSearch, Data Science, Electronic Payment Systems
 
